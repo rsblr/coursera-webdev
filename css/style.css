@@ -17,6 +17,7 @@ h1 {
 
 h2 {
 	font-size: 125%;
+	color: #ffffff;
 }
 
 #container {
@@ -57,6 +58,17 @@ section div {		/*subheadings*/
 	background-color: #ffe5c6;
 }
 
+.col1 div {
+	background-color: #263c57;
+}
+
+.col2 div{
+	background-color: #0e5521;
+}
+
+.col3 div{
+	background-color: #824c0c;
+}
 p {margin: 0.5em}
 
 @media (min-width: 992px) {	/*desktop*/
